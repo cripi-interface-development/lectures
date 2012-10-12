@@ -3,7 +3,7 @@
 ## Презентации
 
   1. [Общие моменты](http://yadi.sk/d/XNVb6Iw109oi7)
-  2. История браузеров (будет чуть позже)
+  2. [История браузеров](https://docs.google.com/presentation/d/1DTAvb9d40eFyJpPu0sY7ffkXROO3QiTka4UKHqB7QZc/preview)
 
 
 ## Напоминаем
